@@ -9,16 +9,22 @@ body {
   width:50%;
   margin:0;
   font: 18px / 1 sans-serif;
+  text-align: center;
 }
 p {
   color: blue;
 }
 .special {
   color: #1a4f70;
-  text-align: left;
+  text-align: center;
   width: 80%;
 }
 
 .hello {
   color: blue;
+}
+
+.homework {
+  Color: #c4ffe6;
+  text-align: center;
 }
