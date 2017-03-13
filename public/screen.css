@@ -3,6 +3,22 @@ html {
 }
 
 body {
-  margin: 0;
-  font: 16px / 1 sans-serif;
+
+  background-color: black;
+  color: white;
+  width:50%;
+  margin:0;
+  font: 18px / 1 sans-serif;
+}
+p {
+  color: blue;
+}
+.special {
+  color: #1a4f70;
+  text-align: left;
+  width: 80%;
+}
+
+.hello {
+  color: blue;
 }
